@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "scrap data from zoubacorps",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "keywords": [
+    "scrappers"
+  ],
+  "author": "amit jhariya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.2",
+    "puppeteer": "^5.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
